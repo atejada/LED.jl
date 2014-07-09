@@ -6,10 +6,11 @@ Usage should be as simple as...
 
 ShowLED(12345)
 
-It should return...
+<pre>
    _  _       _  
 |  _| _| |_| |_  
 | |_  _|   |  _| 
+</pre>
 
 This is my first Julia package and I build it mainly for fun and learning...so yes...it's useless...but who cares -;)
 
